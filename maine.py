@@ -5,7 +5,7 @@
 ====                                                 ====
 ==== By Aymen benchiheub                             ====
 ==== my twitter: https://twitter.com/BenchiheubAymen ====
-==== my gmail : benchiheub.aymen@gmail.com           ====                                                ====
+==== my gmail : benchiheub.aymen@gmail.com           ====
 =========================================================
 """
 import urllib.request
