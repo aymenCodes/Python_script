@@ -1,14 +1,14 @@
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
 import sys
-import main
+import maine
 import os
 """
 =========================================================
 ====                                                 ====
 ==== By Aymen benchiheub                             ====
 ==== my twitter: https://twitter.com/BenchiheubAymen ====
-==== my gmail : benchiheub.aymen@gmail.com           ====                                                ====
+==== my gmail : benchiheub.aymen@gmail.com           ====
 =========================================================
 """
 d = main.download()
